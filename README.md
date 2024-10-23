@@ -55,3 +55,17 @@ Aktivitas ini mencakup tugas yang melampaui proses inti seperti manajemen risiko
 **Task Set**
 
 Sekumpulan tugas yang harus diselesaikan dalam setiap fase dari proses perangkat lunak berdasarkan aktivitas yang terkait.
+
+## **5. Bagaimana manajemen konflik dapat berperan dalam keberhasilan tim rekayasa perangkat lunak, dan sebutkan dua teknik untuk menangani konflik dalam tim pengembangan?**
+
+Manajemen konflik sangat penting untuk keberhasilan tim rekayasa perangkat lunak karena konflik yang tidak dikelola dapat mengganggu alur kerja, menyebabkan penundaan, dan mempengaruhi kualitas hasil. Sebaliknya, konflik yang dikelola dengan baik dapat menghasilkan ide-ide baru dan meningkatkan kolaborasi. Berikut dua contoh teknik dalam menangani konflik dalam tim pengembangang,
+
+**Mediasi**
+
+Pihak ketiga yang netral membantu menyelesaikan konflik dengan mendengarkan kedua belah pihak dan mencari solusi yang saling menguntungkan.
+
+**Kompromi**
+
+Kedua pihak berkonflik setuju untuk memberikan beberapa hal untuk mencapai solusi yang bisa diterima bersama.
+
+## **6. Sebutkan dan jelaskan tiga komponen utama dari struktur proses perangkat lunak (Framework Activities, Umbrella Activities, Task Set).**
