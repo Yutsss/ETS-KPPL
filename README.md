@@ -96,7 +96,7 @@ Ini memungkinkan tim untuk beradaptasi dengan perubahan dengan lebih cepat dan m
 
 **Menggunakan teknologi yang mendukung skalabilitas**
 
-Seperti cloud computing dan database terdistribusi untuk menangani pertumbuhan pengguna.
+Gunakan teknologi yang mendukung skalabilitas yang tinggi seperti cloud computing dan database terdistribusi untuk menangani pertumbuhan pengguna.
 
 **Peningkatan Sistem Keamanan**
 
