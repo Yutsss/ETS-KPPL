@@ -41,3 +41,17 @@ Pengujian pada komponen atau unit perangkat lunak yang paling kecil.
 **Integration testing**
 
 Pengujian untuk memastikan bahwa berbagai komponen perangkat lunak berfungsi dengan baik ketika digabungkan.
+
+## **4. Sebutkan dan jelaskan tiga komponen utama dari struktur proses perangkat lunak (Framework Activities, Umbrella Activities, Task Set).**
+
+**Framework Activities**
+
+Aktivitas inti yang ada di semua proyek perangkat lunak, seperti perencanaan proyek, analisis kebutuhan, desain, implementasi, pengujian, dan pemeliharaan.
+
+**Umbrella Activities**
+
+Aktivitas ini mencakup tugas yang melampaui proses inti seperti manajemen risiko, jaminan kualitas perangkat lunak, dan dokumentasi.
+
+**Task Set**
+
+Sekumpulan tugas yang harus diselesaikan dalam setiap fase dari proses perangkat lunak berdasarkan aktivitas yang terkait.
