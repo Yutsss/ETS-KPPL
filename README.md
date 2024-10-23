@@ -104,3 +104,9 @@ Gunakan teknologi yang mendukung skalabilitas yang tinggi seperti cloud computin
 
 Gunakan enkripsi pada semua data sensitif dan pastikan arsitektur perangkat lunak sesuai dengan standar keamanan. Lalu, lakukan penetration testing dan audit keamanan secara berkala.
 
+## **Demo**
+
+Video:
+
+[![Ini Video Contoh](https://img.youtube.com/vi/HYF_1TKrQYc/0.jpg)](https://www.youtube.com/watch?v=HYF_1TKrQYc)
+
