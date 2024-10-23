@@ -68,4 +68,36 @@ Pihak ketiga yang netral membantu menyelesaikan konflik dengan mendengarkan kedu
 
 Kedua pihak berkonflik setuju untuk memberikan beberapa hal untuk mencapai solusi yang bisa diterima bersama.
 
-## **6. Sebutkan dan jelaskan tiga komponen utama dari struktur proses perangkat lunak (Framework Activities, Umbrella Activities, Task Set).**
+## **6. `Studi Kasus`: Sebuah perusahaan startup teknologi ingin mengembangkan aplikasi e-commerce yang akan digunakan oleh jutaan pengguna di seluruh dunia. Mereka memiliki tim pengembang yang berpengalaman, namun mereka tidak memiliki pengalaman sebelumnya dalam membangun aplikasi berskala besar. Jelaskan tantangan yang dihadapi startup tersebut terkait dengan sifat perangkat lunak (Nature of Software) yang berkembang secara terus-menerus. Bagaimana mereka harus mempersiapkan diri untuk menghadapi tantangan-tantangan ini?.**
+
+###  **Tantangan**
+
+**Skalabilitas**
+
+Karena aplikasi akan digunakan oleh jutaan pengguna, penting untuk merancang arsitektur perangkat lunak yang skalabel agar dapat menangani peningkatan lalu lintas pengguna tanpa menurunkan kinerja.
+
+**Kompleksitas yang meningkat**
+
+Seiring dengan pengembangan fitur baru dan penyesuaian berdasarkan kebutuhan pasar, kompleksitas aplikasi akan bertambah. Tim harus siap dengan pendekatan modular dan pengelolaan teknis yang kuat.
+
+**Pemeliharaan berkelanjutan**
+
+Perangkat lunak harus dapat diperbarui dan dipelihara secara berkelanjutan seiring dengan perubahan teknologi, peraturan, dan kebutuhan pengguna. Tim harus membangun sistem yang fleksibel dan mudah dipelihara.
+
+**Keamanan**
+
+Aplikasi e-commerce rentan terhadap serangan siber dan pencurian data. Tim harus mengutamakan keamanan dalam setiap tahap pengembangan.
+
+### **Cara Mempersiapkan Diri**
+
+**Menggunakan metodologi pengembangan Agile**
+
+Ini memungkinkan tim untuk beradaptasi dengan perubahan dengan lebih cepat dan merespons feedback pengguna dengan lebih efisien.
+
+**Menggunakan teknologi yang mendukung skalabilitas**
+
+Seperti cloud computing dan database terdistribusi untuk menangani pertumbuhan pengguna.
+
+**Peningkatan Sistem Keamanan**
+
+Gunakan enkripsi pada semua data sensitif dan pastikan arsitektur perangkat lunak sesuai dengan standar keamanan. Lalu, lakukan penetration testing dan audit keamanan secara berkala.
