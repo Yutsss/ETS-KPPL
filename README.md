@@ -6,6 +6,8 @@
 
 **Kelas**: KPPL E
 
+**Link Youtube**: 
+
 ![selfie](Resources/selfie.jpg)
 
 ## **1. Mengapa perangkat lunak cenderung menjadi lebih kompleks seiring dengan perkembangannya? Jelaskan dua faktor utama yang menyebabkannya.**
@@ -101,3 +103,4 @@ Gunakan teknologi yang mendukung skalabilitas yang tinggi seperti cloud computin
 **Peningkatan Sistem Keamanan**
 
 Gunakan enkripsi pada semua data sensitif dan pastikan arsitektur perangkat lunak sesuai dengan standar keamanan. Lalu, lakukan penetration testing dan audit keamanan secara berkala.
+
