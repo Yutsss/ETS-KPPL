@@ -30,3 +30,14 @@ Menggunakan kembali komponen perangkat lunak yang sudah ada dapat mengurangi wak
 
 Komponen yang sudah diuji dan terbukti dapat memberikan hasil yang konsisten serta mengurangi risiko bug atau kesalahan dalam pengembangan baru.
 
+## **3. Apa peran pengujian perangkat lunak (software testing) dalam siklus hidup pengembangan perangkat lunak, dan sebutkan dua jenis pengujian yang umum dilakukan.**
+
+Software testing berperan penting dalam memastikan bahwa perangkat lunak bekerja sesuai dengan spesifikasi dan bebas dari bug atau kesalahan. Berikut merupakan dua jenis dari software testing yang paling umum,
+
+**Unit testing**
+
+Pengujian pada komponen atau unit perangkat lunak yang paling kecil.
+
+**Integration testing**
+
+Pengujian untuk memastikan bahwa berbagai komponen perangkat lunak berfungsi dengan baik ketika digabungkan.
